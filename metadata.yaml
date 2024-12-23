@@ -1,5 +1,8 @@
 _repo: Gloria-b-Kokoelma-kansojen-pyhia-kertomuksia_74837
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lampén, Ernst
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '43565'
     url: http://www.gutenberg.org/2009/agents/43565
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74837#Gloria-b-Kokoelma-kansojen-pyhia-kertomuksia
 gutenberg_issued: '2024-12-04'
 gutenberg_type: Text
 identifiers:
